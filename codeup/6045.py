@@ -1,0 +1,5 @@
+a, b, c = input().split()
+_a = int(a)
+_b = int(b)
+_c = int(c)
+print(_a + _b + _c, format((_a+_b+_c)/3, ".2f"))
