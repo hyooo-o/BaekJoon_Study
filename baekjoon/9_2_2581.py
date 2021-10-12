@@ -16,4 +16,4 @@ if not dec:
     print(-1)
 else:
     print(sum(dec))
-    print(min(dec))
+    print(min(dec)) 

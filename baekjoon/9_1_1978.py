@@ -11,4 +11,4 @@ for i in num:
                 break
         if x == 0:
             count += 1
-print(count)
+print(count) 
